@@ -1,4 +1,3 @@
-# FMCG_Analytics_Pipline
 # 🏭 Unified Analytics Pipeline — Atlikon × Sports Bar
 ### End-to-End Data Engineering Project on Databricks (FMCG Domain)
 
